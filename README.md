@@ -1,16 +1,18 @@
-### Hi there 👋
+# Ola! 👋
 
-<!--
-**sergiokkkjk/sergiokkkjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o _sergiokkkjk moro no Brasil, estou aprendendo programação ainda, mas desde pequeno vejo videos sobre a criaçao de jogos, sites e programas e estou a procura de aprender melhor sobre. Tenho 16 anos e só fiz coisas basicas no java, e agora estou aprendendo css e html. Espero aprender bastante 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Futuros projetos/feitos💻
+- Fazer um Jogo 2D
+- linktree
+- Aprender sobre java e game maker.
+- Aprender pixel art
+
+### 📫 Meus meios de Contato
+- [Instagram](https://www.instagram.com/_sergiokkkjk/)
+- [twitter](https://twitter.com/Hayato_Oshiro)
+
+
+# Até mais 👋
